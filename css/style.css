@@ -4,25 +4,47 @@ min-height: 120px;
 
 }
 
+main{
+    width: 75%;
+}
 img{
     width: 60px;
-    border: radius 10px; ;
-    text-align: center;
+     
+    
 
 }
 h1{
     size: 2.5em;
     display: inline-block;
     
+    
 
 
 
 }
-footer{
-    width: 50%;
-    display: inline-block;
+aside{
+    width: 15%;
+    min-height: 400px;
 
+}
+footer[id=der]{
     
+    display: inline-block;
+    justify-self:left;
+    
+
+}
+footer[id="izq"]{
+    display: inline-block;
+    text-align:right;
+    
+    
+
+}
+
+p[id="r"]{
+    size: 1em;
+    text-align: right;
 }
 h3{
 size: 1.5em;

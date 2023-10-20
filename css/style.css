@@ -6,6 +6,9 @@ min-height: 120px;
 
 main{
     width: 75%;
+    margin: 5px;
+    padding: 5px;
+    
 }
 img{
     width: 60px;
@@ -16,12 +19,37 @@ img{
 h1{
     size: 2.5em;
     display: inline-block;
+    vertical-align:top;
     
-    
-
-
 
 }
+h2{
+
+    margin: 5px;
+}
+div{
+
+    margin-bottom: 10px;
+}
+
+
+img[id="barca"]{
+    width: 250px;
+    margin: 5px;
+    padding: 5px;
+
+}
+.noti{
+    display: inline-block;
+
+}
+h3[id="main"]{
+display: inline-block;
+margin: 5px;
+
+}
+
+
 aside{
     width: 15%;
     min-height: 400px;

@@ -1,0 +1,20 @@
+header{
+min-height: 120px;
+
+
+}
+
+img{
+    height: 60px;
+    width: 60px;
+    border: radius 10px; ;
+
+}
+h1{
+    size: 2.5em;
+    display: inline-block;
+    
+
+
+
+}

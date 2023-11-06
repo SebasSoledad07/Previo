@@ -1,2 +1,2 @@
 # Previo
-Pages:https://sebassoledad07.github.io/previo/
+Pages:https://SebasSoledad07.github.io/previo/
